@@ -57,6 +57,10 @@ a {
     background-color: #788F9C !important;
 }
 
+.modal-footer {
+    color: #333333 !important;
+}
+
 button.btn.btn-default {
     border-width: 1px !important;
     color: #3F52B5 !important;
