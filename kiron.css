@@ -2,6 +2,10 @@ main::before {
  background: #ffffff !important;
 }
 
+.col-xs-4 {
+  color: black;
+}
+
 .card-title {
  color: #324191;
  font-weight: 600;
