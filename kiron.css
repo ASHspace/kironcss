@@ -3,7 +3,7 @@ main::before {
 }
 
 .col-xs-4 {
-  color: gray;
+  color: #333333;
 }
 
 .card-title {
@@ -58,7 +58,7 @@ a {
 }
 
 .modal-footer {
-    color: gray !important;
+    color: #333333 !important;
 }
 
 button.btn.btn-default {
